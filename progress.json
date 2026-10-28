@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:07:26.142Z",
+  "generated_at": "2026-10-28T20:50:35.635Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -163,6 +163,17 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-28T19:07:25.455Z",
       "last_pushed_at": "2026-10-28T19:07:25.455Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-10-28T20:50:34.387Z",
+      "last_pushed_at": "2026-10-28T20:50:34.387Z"
     }
   }
 }
